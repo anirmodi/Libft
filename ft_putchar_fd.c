@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar_fd.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ridomuka <ridomuka@student.42.fr>          +#+  +:+       +#+        */
+/*   By:          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/02 12:42:34 by ridomuka          #+#    #+#             */
 /*   Updated: 2024/11/12 22:58:28 by ridomuka         ###   ########.fr       */
