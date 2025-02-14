@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putnbr_fd.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ridomuka <ridomuka@student.42.fr>          +#+  +:+       +#+        */
+/*   By:           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/02 13:04:51 by ridomuka          #+#    #+#             */
 /*   Updated: 2024/11/12 22:20:01 by ridomuka         ###   ########.fr       */
