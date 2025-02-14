@@ -3,7 +3,7 @@
 /*                                                        :::      ::::::::   */
 /*   ft_striteri.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: ridomuka <ridomuka@student.42.fr>          +#+  +:+       +#+        */
+/*   By:          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/02 12:38:59 by ridomuka          #+#    #+#             */
 /*   Updated: 2024/11/02 12:52:10 by ridomuka         ###   ########.fr       */
